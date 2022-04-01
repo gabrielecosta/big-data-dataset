@@ -1,0 +1,7 @@
+Belgium	HeistopdenBerg	18.8
+Croatia	Zagreb	25.6
+France	SaintDenis	17.4
+Germany	Meppen	17.8
+Italy	Polistena	41.5
+Poland	Orzesze	38.2
+Serbia	NoviPazar	46.6
