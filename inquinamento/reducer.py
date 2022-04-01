@@ -7,9 +7,9 @@ max_city = None
 max_val = 0
 
 for line in sys.stdin:
-	line = line.strip()
+	#line = line.strip()
 	country, city, year_2021 = line.split('\t')
-	try:	
+	try:
 		if last_country and last_country != country:
 			print(f"{last_country}\t{max_city}\t{max_val}")
 			last_country = country
@@ -17,12 +17,14 @@ for line in sys.stdin:
 			max_val = float(year_2021)
 		else:
 			last_country = country
-			if(float(year_2021) > max_val):
+			if max_city == None:
+				max_city = city
 				max_val = float(year_2021)
-				last_city = max_city
-
+			elif (float(year_2021) > max_val):
+				max_val = float(year_2021)
+				max_city = city
 	except ValueError:
-		print("Errore con la linea...")
+		print("Errore con la linea")
 
 if last_country:
-	print("{0}\t{1}\t{2}".format(last_country,max_city, max_val))
+	print("{0}\t{1}\t{2}".format(last_country, max_city, max_val))
