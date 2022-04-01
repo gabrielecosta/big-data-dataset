@@ -1,0 +1,121 @@
+Errore con la linea...
+2021	None	0
+Afghanistan"	"Kabul	37.5
+Albania"	"Tirana	12.5
+Algeria"	"Algiers	20.0
+Andorra"	"Ordino	7.3
+Angola"	"Luanda	11.0
+Argentina"	"Buenos Aires	13.6
+Armenia"	"Yeghegnavan	36.7
+Australia"	"Adelaide	11.4
+Austria"	"Amstetten	18.4
+Azerbaijan"	"Baku	17.6
+Bahamas"	"Governor's Harbour	5.5
+Bahrain"	"Manama	49.8
+Bangladesh"	"Comilla	78.1
+Belgium"	"Aarschot	18.8
+Errore con la linea...
+Bonaire	"The Bottom	18.8
+Bosnia Herzegovina"	"Banja Luka	46.0
+Brazil"	"Boa Vista	22.1
+Bulgaria"	"Burgas	17.6
+Cambodia"	"Phnom Penh	19.8
+Canada"	"Abbotsford	26.4
+Cape Verde"	"Espargos	5.1
+Chad"	"Faya-Largeau	77.6
+Chile"	"Alto Hospicio	47.7
+China"	"Aba	101.5
+Colombia"	"Bogota	15.6
+Costa Rica"	"San Jose	7.8
+Croatia"	"Desinic Gora	25.6
+Cyprus"	"Ayia Marina	15.9
+Czech Republic"	"Beroun	28.2
+Denmark"	"Aarhus	10.1
+Ecuador"	"Puerto Baquerizo Moreno	8.4
+Egypt"	"New Cairo	29.1
+Estonia"	"Kohtla-Jaerve	6.8
+Ethiopia"	"Addis Ababa	23.9
+Finland"	"Espoo	6.8
+France"	"Aix-en-Provence	17.4
+Georgia"	"Batumi	34.8
+Germany"	"Aachen	17.8
+Ghana"	"Accra	28.9
+Greece"	"Acharnes	24.2
+Grenada"	"Saint George's	5.5
+Guatemala"	"Antigua Guatemala	22.4
+Honduras"	"Tegucigalpa	11.8
+Hong Kong SAR"	"Hong Kong	17.8
+Hungary"	"Ajka	26.4
+Iceland"	"Grundartangi	6.4
+India"	"Agartala	106.2
+Indonesia"	"Balaipungut	39.2
+Iran"	"Abhar	44.2
+Iraq"	"Baghdad	49.7
+Ireland"	"Blarney	14.3
+Israel"	"Acre	26.9
+Italy"	"Acerra	41.5
+Japan"	"Abiko	16.3
+Jordan"	"Al Quwayrah	16.5
+Kazakhstan"	"Aktau	75.5
+Kenya"	"Nairobi	14.3
+Kosovo"	"Ferizaj	29.4
+Kuwait"	"As Salimiyah	29.7
+Kyrgyzstan"	"Bishkek	60.9
+Laos"	"Vientiane	21.5
+Lebanon"	"Beirut	25.7
+Liechtenstein"	"Vaduz	7.2
+Lithuania"	"Kaunas	14.6
+Luxembourg"	"Bourglinster	9.8
+Macao SAR"	"Macao	17.0
+Madagascar"	"Antananarivo	21.5
+Malaysia"	"Alor Gajah	38.2
+Malta"	"H'Attard	16.1
+Mexico"	"Abasolo	28.4
+Mongolia"	"Chonogol	33.8
+Montenegro"	"Herceg-Novi	35.2
+Myanmar"	"Mandalay	26.4
+Nepal"	"Dhankuta	64.7
+Netherlands"	"Amsterdam	17.7
+New Caledonia"	"Noumea	3.8
+New Zealand"	"Ashburton	11.9
+Nigeria"	"Abuja	51.6
+North Macedonia"	"Bitola	27.7
+Norway"	"Alta	11.0
+Oman"	"Muscat	53.9
+Pakistan"	"Bahawalpur	94.2
+Peru"	"Chupaca	34.0
+Philippines"	"Balanga	18.7
+Poland"	"Augustow	38.2
+Portugal"	"Agueda	18.8
+Puerto Rico"	"Arecibo	5.4
+Qatar"	"Doha	38.2
+Romania"	"Arad	30.3
+Russia"	"Gelendzhik	49.8
+Saudi Arabia"	"Dhahran	33.0
+Serbia"	"Belgrade	46.6
+Singapore"	"Singapore	13.8
+Slovakia"	"Banska Bystrica	23.7
+Slovenia"	"Borovnica	13.3
+South Africa"	"Bethlehem	42.2
+South Korea"	"Andong	28.1
+Spain"	"A Coruna	15.8
+Sri Lanka"	"Colombo	21.6
+Sudan"	"Khartoum	44.1
+Sweden"	"Björklinge	9.3
+Switzerland"	"Airolo	16.2
+Syria"	"Arwad	29.4
+Taiwan"	"Changhua	33.1
+Tajikistan"	"Dushanbe	59.5
+Thailand"	"Aranyaprathet	52.2
+Trinidad and Tobago"	"Chaguanas	7.2
+Turkey"	"Adana	66.2
+Turkmenistan"	"Ashgabat	20.4
+Uganda"	"Kampala	27.6
+Ukraine"	"Borova	23.1
+United Arab Emirates"	"Abu Dhabi	36.9
+United Kingdom"	"Aberdeen	12.7
+Uruguay"	"Montevideo	14.2
+USA"	"Aberdeen	34.7
+U.S. Virgin Islands"	"Charlotte Amalie	4.6
+Uzbekistan"	"Tashkent	42.8
+Vietnam"	"Cho	40.8
